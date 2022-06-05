@@ -7,9 +7,7 @@ Used in a Udacity course in the Beginning Android Nanodegree.
 Pre-requisites
 --------------
 
-- Android SDK v23
-- Android Build Tools v23.0.2
-- Android Support Repository v23.2.1
+- Android SDK v32
 
 Getting Started
 ---------------
